@@ -8,7 +8,7 @@ The topics covered in these lectures include:
 - Probability Distributions (lecture 4)
 - Hypothesis Testing (lecture 5)
 - Test differences: T-test (lectures 6 and 7)
-- Testing relationships: Correlations (lecutre 8)
+- Testing relationships: Correlations (lecture 8)
 - Testing relationships: Regression (lecture 9)
 - Designing good studies (lecture 10)
 - Statistics with spatial data (lecture 11)
